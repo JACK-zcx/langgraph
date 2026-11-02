@@ -1,0 +1,10 @@
+Your Conversation Log:
+You: hi
+
+AI: Hi! How can I help you today?
+
+You: nihao
+
+AI: 你好！有什么我可以帮你的吗？😊
+
+End of Conversation
